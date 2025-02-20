@@ -1,0 +1,4 @@
+psql is a terminal-based frontend to postgreSQL. It provides an interactive command-line interface to the postgreSQL db. whith psql you can type queries interactively, issue them to postgreSQL and see the query results.
+
+like mongoose we have pg to interact with db with nodejs
+
