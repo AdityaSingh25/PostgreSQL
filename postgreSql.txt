@@ -2,3 +2,4 @@ psql is a terminal-based frontend to postgreSQL. It provides an interactive comm
 
 like mongoose we have pg to interact with db with nodejs
 
+

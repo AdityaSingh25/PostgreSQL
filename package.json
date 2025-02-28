@@ -1,0 +1,24 @@
+{
+  "name": "postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AdityaSingh25/PostgreSQL#readme",
+  "bugs": {
+    "url": "https://github.com/AdityaSingh25/PostgreSQL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaSingh25/PostgreSQL.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/pg": "^8.11.11",
+    "pg": "^8.13.3"
+  }
+}
