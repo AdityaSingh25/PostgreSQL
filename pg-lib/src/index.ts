@@ -111,3 +111,8 @@ const updateUser = async (email: string) => {
 };
 
 console.log(updateUser("user1@gmail.com"));
+
+
+// Relation ships in db
+
+ 
